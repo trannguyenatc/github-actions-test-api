@@ -1,0 +1,3 @@
+[submodule "\reactapp"]
+	url = https://github.com/trannguyenatc/github-actions-test-react.git
+	path = reactapp
